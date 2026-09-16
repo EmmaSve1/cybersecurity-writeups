@@ -1,7 +1,9 @@
-Mina anteckningar och writeups från min resa in i IT-säkerhet. Jag är i början mot en karriär inom IT-Säkerhet och bygger upp grunderna genom praktiskt övning innan jag börjar min utbildning inom IT-säkerhet i augusti 2027.
+Mina anteckningar och writeups från min resa in i IT-Säkerhetskarriären.
 
-Här hittar du mina TryHackMe writeups, anteckningar ifrån varje avklarat rum, vad rummet har handlat om, ny begrepp, kommandon jag har använt och min process för att lösa de praktiska uppgifterna.
+Jag är i början mot min karriär inom IT-Säkerhet och bygger upp grunderna genom praktiskt övning innan jag börjar min utbildning på Teknikhögskolan i Karlstad, Augusti 2027.
 
-Strukturerade mappar per learning path tex Pre-Security eller Jr-Pen.
+Här hittar du mina TryHackMe writeups och anteckningar från varje klarat rum, det innehåller vad rummet handlade om, nya begrepp jag har lärt mig och de kommandon jag har använt för att lösa de praktiska uppgifterna.
 
-Om mig, bor i Karlstad är 26år och studerar just nu med en dröm att jobba inom IT-Säkerhet.
+Strukturerade mappar per learning path för att enkelt hitta, exempelvis Pre-Security.
+
+Jag har en dröm att jobba inom It-Säkerhet och Pen-test och resan dokumenterar jag här.
