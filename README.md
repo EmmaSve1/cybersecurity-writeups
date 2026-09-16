@@ -24,7 +24,7 @@ Jag har en dröm att jobba inom It-Säkerhet och Pen-test och resan dokumenterar
 | [Cloud Computing Fundamentals]   | 14/9-26    | 4            | [cloud-computing-fundamentals.md]                                                                     |
 | [Operating Systems Introduction] | 16/9-26    | 4            | [operating-systems-introduction.md]                                                                   |
 | [Windows Basics]                 | 16/9-26    | 4            | [windows-basics.md]                                                                                   |
-| [Linux CLI Basics]               | 16/9-26    | 4            | [Linux-cli-basics.md]                                                                                 |
+| [Linux CLI Basics]               | 16/9-26    | 4            | [pre-security/Module 3/Linux-cli-basics.md]                                                                                 |
 |                                  |            |              |                                                                                                      |
 |                                  |            |              |                                                                                                      |
 |                                  |            |              |                                                                                                      |
