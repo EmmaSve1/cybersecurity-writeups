@@ -14,7 +14,7 @@ Jag har en dröm att jobba inom It-Säkerhet och Pen-test och resan dokumenterar
 
 | Room                             | Datum klar | Klarade quiz | Länk till writeup                                                                                    |
 | -------------------------------- | ---------- | ------------ | ---------------------------------------------------------------------------------------------------- |
-| [Offensive Security Intro]       | 10/9-26    | 4            | [offensive-security-intro.md] 
+| [Offensive Security Intro]       | 10/9-26    | 4            | [offensive-security-intro.md](pre-security/Module 1/offensive-security-intro.md)
 | [Defensive Security Intro]       | 10/9-26    | 4            | [defensive-security-intro.md]                                                                        |
 | [Careers in Cyber]               | 10/9-26    | 6            | [careers-in-cyber.md]                                                                                 |
 | [Cold Boot]                      | 10/9-26    | 1            | [cold-boot.md]                                                                                        |
