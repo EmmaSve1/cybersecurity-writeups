@@ -16,7 +16,7 @@ Jag har en dröm att jobba inom It-Säkerhet och Pen-test och resan dokumenterar
 | -------------------------------- | ---------- | ------------ | ---------------------------------------------------------------------------------------------------- |
 | [Offensive Security Intro]       | 10/9-26    | 4            | [offensive-security-intro.md](pre-security/Module 1/offensive-security-intro.md)
 | [Defensive Security Intro]       | 10/9-26    | 4            | [defensive-security-intro.md]                                                                        |
-| [Careers in Cyber]               | 10/9-26    | 6            | [careers-in-cyber.md]                                                                                 |
+| [Careers in Cyber]               | 10/9-26    | 6            | [careers-in-cyber.md](pre-security/Module-1/careers-in-cyber.md)                                                                               |
 | [Cold Boot]                      | 10/9-26    | 1            | [cold-boot.md]                                                                                        |
 | [Computer Types]                 | 10/9-26    | 5            | [computer-types.md]                                                                                   |
 | [Client-Server Basics]           | 10/9-26    | 4            | [client-server-basics.md]                                                                             |
