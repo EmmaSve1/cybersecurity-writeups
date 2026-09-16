@@ -1,4 +1,3 @@
-## Room-mall 
 
 ### Room: [Offensive Security Intro]
 
