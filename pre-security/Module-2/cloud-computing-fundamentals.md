@@ -24,9 +24,5 @@ Några fördelar som hör till moln är att det är skalbart, man betalar för d
 
 Man kan se Iaas som att man hyr en tom lägenhet. PaaS som att man hyr en lägenhet med möbler i och SaaS som att man bor på hotell och allt är klart att användas.
 
-:**
 
----
-
-## Termer jag inte helt förstår än
 
