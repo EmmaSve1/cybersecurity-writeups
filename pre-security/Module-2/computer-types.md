@@ -4,7 +4,7 @@
 
 **Datum:** [09/20-26] **Spår:** [Pre Security ]
 
-**Vad rummet handlade om (1-2 meningar i egna ord):**
+**Vad rummet handlade om:**
 Olika typer av datorer och vad de gör
 
 **Nya begrepp – i egna ord:**
