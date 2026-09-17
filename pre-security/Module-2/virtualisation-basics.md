@@ -4,7 +4,7 @@
 
 **Datum:** [09/10-26] **Spår:** [Pre Security
 
-**Vad rummet handlade om (1-2 meningar i egna ord):**
+**Vad rummet handlade om:**
 
 Hur ett enda fysiskt servrar kan delas upp i flera oberoende, isolerade "datorer" genom virtualisering –och varför det behövs (annars skulle varje app/hemsida kräva sin egen fysiska server, vilket vore orimligt dyrt och slösaktigt).
 
