@@ -3,7 +3,7 @@
 
 **Datum:** [10/9-26] **Spår:** [Pre Security]
 
-**Vad rummet handlade om (1-2 meningar i egna ord):**
+**Vad rummet handlade om:**
 Introduktion till offensive security genom att praktiskt hitta och utnyttja en dold sida på en fejk-bank.
 
 **Nya begrepp – i egna ord:**
