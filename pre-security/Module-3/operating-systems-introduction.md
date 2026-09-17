@@ -4,7 +4,7 @@
 
 **Datum:** [09/16-26] **Spår:** [Pre Security ]
 
-**Vad rummet handlade om (1-2 meningar i egna ord):**
+**Vad rummet handlade om:**
 Grunderna i olika OS/Operativ System och hur det egentligen fungerar i bakgrunden, hur ett OS fördelar användare, minne och processer.
 Hur man inuti ett OS kan ta fram vilken hårdvara det är i datorn.
 **Nya begrepp – i egna ord:**
