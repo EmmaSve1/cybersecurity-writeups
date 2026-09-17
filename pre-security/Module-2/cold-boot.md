@@ -16,12 +16,7 @@ Vilka komponenter en dator behöver för att fungera, samt vad de har för funkt
 - Begrepp: PSU - Power Supply Unit. Förklaring: Konverterar ström från vägguttaget till den special anpassade ström som datorns komponenter behöver, olika spänningar för olika delar. Utan det starar ingenting alls
 - Begrepp: CPU, processorn. Förklaring: Hjärnan i datorn, kärntal och klockhastighet avgör hur mycket den klarar samtidigt och hur snabbt.
 
-**Kommandon jag använde:**
 
-|Kommando|Vad det gör|
-|---|---|
-|||
-|||
 
 **Min process (för CTF/labbövningar):**
 
@@ -32,11 +27,4 @@ Vilka komponenter en dator behöver för att fungera, samt vad de har för funkt
 Plockade sedan ut den äldre disken och då bootade datorn upp.
 
 
-## **Aha-grejer (saker som klarnade):**
-
-## **Frågor jag svarade fel på i quiz + rätt svar:** 
-
----
-
-## Termer jag inte helt förstår än
 
