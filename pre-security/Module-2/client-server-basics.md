@@ -3,7 +3,7 @@
 
 **Datum:** [09/10-26] **Spår:** [Pre Security]
 
-**Vad rummet handlade om (1-2 meningar i egna ord):**
+**Vad rummet handlade om:**
 Hur datorer pratar med varandra, Client-Server modellen.
 
 **Nya begrepp – i egna ord:**
