@@ -4,7 +4,7 @@
 
 **Datum:** [09/10-26] **Spår:** [Pre Security]
 
-**Vad rummet handlade om (1-2 meningar i egna ord):**
+**Vad rummet handlade om :**
 Att tänka som en defensiv it-säkerhetsspecialist
 Hur man kan ta reda på vad hackaren faktiskt vill och i sin tur blockera hackaren.
 
