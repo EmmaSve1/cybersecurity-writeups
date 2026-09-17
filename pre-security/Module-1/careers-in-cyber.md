@@ -4,7 +4,7 @@
 
 **Datum:** [09/10-26] **Spår:** [Pre Security]
 
-**Vad rummet handlade om (1-2 meningar i egna ord):**
+**Vad rummet handlade om:**
 Hur olika typer av personligheter passar in på olika platser inom It-säkerhet. 
 Att det är en växande brist på arbetskraft inom IT-Säkerhet
 
