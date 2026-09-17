@@ -43,9 +43,4 @@
 Windows och Linux har liknande kommandon fast med olika namn tex dir = ls, type = cat
 
 
-## **Frågor jag svarade fel på i quiz + rätt svar:**
-Inga fel denna gång
----
-
-## Termer jag inte helt förstår än
 
