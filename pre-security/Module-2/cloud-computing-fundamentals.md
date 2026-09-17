@@ -4,7 +4,7 @@
 
 **Datum:** [14/9-26] **Spår:** [Pre Security]
 
-**Vad rummet handlade om (1-2 meningar i egna ord):**
+**Vad rummet handlade om :**
 
 Grunderna i molntjänster, distributionsmodeller och tjänstemodeller samt varje moln används istället för hårdvara.
 
