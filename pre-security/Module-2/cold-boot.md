@@ -4,7 +4,7 @@
 
 **Datum:** [09/10-26] **Spår:** [Pre Security]
 
-**Vad rummet handlade om (1-2 meningar i egna ord):**
+**Vad rummet handlade om:**
 
 Vilka komponenter en dator behöver för att fungera, samt vad de har för funktion.
 
