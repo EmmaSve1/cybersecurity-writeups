@@ -4,7 +4,7 @@
 
 **Datum:** [datum] **Spår:** [Pre Security / Jr Pen Tester / etc]
 
-**Vad rummet handlade om (1-2 meningar i egna ord):**
+**Vad rummet handlade om:**
 Rummet handlar grundligt om hur ett Windows Operativ system fungerar och hur man enkelt navigerar runt i ex aktivitetshanteraren, system inställningar etc.
 Det handlar också om Windows säkerhet och dess olika inställningar.
 
