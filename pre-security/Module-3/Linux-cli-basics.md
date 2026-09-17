@@ -50,5 +50,4 @@ Inga fel denna gång, men hade lite problem till en början att förstå hur jag
 
 ---
 
-## Termer jag inte helt förstår än
 
