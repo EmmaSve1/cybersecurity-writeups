@@ -12,12 +12,7 @@ Hur datorer pratar med varandra, Client-Server modellen.
 - Begrepp: GET Förklaring: HTTP kommando som en klient använder för att hämta data från en server, exempelvis när man skriver in en webbadress i webbläsaren.
 Syns i loggar.
 
-**Kommandon jag använde:**
 
-| Kommando | Vad det gör |
-| -------- | ----------- |
-|          |             |
-|          |             |
 
 **Min process (för CTF/labbövningar):**
 
@@ -29,11 +24,4 @@ Syns i loggar.
 
 Att system körs på olika portar i en server. Så för att hitta något måste jag gå in på rätt port. 
 
-## **Frågor jag svarade fel på i quiz + rätt svar:**
 
-
----
-
-## Termer jag inte helt förstår än
-
-Gå tillbaka till denna lista var 1-2 vecka och stryk det som klarnat.
