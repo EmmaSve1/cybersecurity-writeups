@@ -17,18 +17,6 @@ Grunderna i molntjänster, distributionsmodeller och tjänstemodeller samt varje
 - Begrepp: PaaS Förklaring: Då hyr man ett färdigställd dator ifrån molnet för att tex bygga och köra appar utan att behöva hantera servrar, infrastrukturen och operativ systemet.
 - Begrepp: SaaS Förklaring: Program man använder online utan att installera nånting, exempelvis Zoom eller Outlook. 
 
-**Kommandon jag använde:**
-
-|Kommando|Vad det gör|
-|---|---|
-|||
-|||
-
-**Min process (för CTF/labbövningar):**
-
-1. Recon – vad jag undersökte först:
-2. Vad jag hittade:
-3. Hur jag löste uppgiften:
 
 ## **Aha-grejer (saker som klarnade):**
 
@@ -36,7 +24,7 @@ Några fördelar som hör till moln är att det är skalbart, man betalar för d
 
 Man kan se Iaas som att man hyr en tom lägenhet. PaaS som att man hyr en lägenhet med möbler i och SaaS som att man bor på hotell och allt är klart att användas.
 
-## **Frågor jag svarade fel på i quiz + rätt svar:**
+:**
 
 ---
 
