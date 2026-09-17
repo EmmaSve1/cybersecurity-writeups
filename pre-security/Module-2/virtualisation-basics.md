@@ -25,7 +25,7 @@ Hur ett enda fysiskt servrar kan delas upp i flera oberoende, isolerade "datorer
 
 ## **Aha-grejer (saker som klarnade):**
 
-Fysisk server = byggnad, VM= lägenhet, Container= rum i lägenhet
-Fattade att ett eget hemmalabb/VM som VirtualBox är en Type 2
+Fysisk server = byggnad, VM= lägenhet, Container= rum i lägenhet.
+ Fattade att ett eget hemmalabb/VM som VirtualBox är en Type 2
 
 
