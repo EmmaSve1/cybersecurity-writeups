@@ -15,12 +15,7 @@ Hur ett enda fysiskt servrar kan delas upp i flera oberoende, isolerade "datorer
 - Begrepp: Container Förklaring: Ett lättare alternativ till VM, delar samma operativ system men isolerar applicationen, den är snabbare att starta än en VM
 - Begrepp: Type 1 vs Type 2 hypervisor Förklaring: Type 1 körs direkt på hårdvaran tex i ett datacenter, Type 2 körs ovanpå en vanligt operativ system tex Virtual Box på din dator.
 
-**Kommandon jag använde:**
 
-|Kommando|Vad det gör|
-|---|---|
-|||
-|||
 
 **Min process (för CTF/labbövningar):**
 
@@ -33,8 +28,4 @@ Hur ett enda fysiskt servrar kan delas upp i flera oberoende, isolerade "datorer
 Fysisk server = byggnad, VM= lägenhet, Container= rum i lägenhet
 Fattade att ett eget hemmalabb/VM som VirtualBox är en Type 2
 
-## **Frågor jag svarade fel på i quiz + rätt svar:**
 
----
-
-## Termer jag inte helt förstår än
