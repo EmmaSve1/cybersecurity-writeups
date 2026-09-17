@@ -2,7 +2,7 @@
 
 ### Room: [Windows CLI Basics]
 
-**Datum:** [16/9-26] **Spår:** [**Datum:** [09/16-26] **Spår:** [Tryhackme/Pre Security]
+**Datum:** [16/9-26] **Spår:** [Datum: [09/16-26] Spår:[Tryhackme/Pre Security]
 
 
 **Vad rummet handlade om (1-2 meningar i egna ord):**
@@ -13,7 +13,7 @@
 
 **Nya begrepp – i egna ord:**
 
-- Begrepp: Förklaring:
+- Begrepp:CMD/Command promt Förklaring: Windows textbaserade gränssnitt det vill säga motsvarigheten till terminalen i Linux
 - Begrepp: Förklaring:
 
 **Kommandon jag använde:**
@@ -40,9 +40,11 @@
 3. Hur jag löste uppgiften: Körde kommandot, cd sökvägen och efter det dir för att se så filen låg där. Slutligen körde jag type task_brief.txt och hittade där flaggan.
 
 ## **Aha-grejer (saker som klarnade):**
+Windows och Linux har liknande kommandon fast med olika namn tex dir = ls, type = cat
+
 
 ## **Frågor jag svarade fel på i quiz + rätt svar:**
-
+Inga fel denna gång
 ---
 
 ## Termer jag inte helt förstår än
