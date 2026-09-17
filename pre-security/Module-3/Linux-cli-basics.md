@@ -4,7 +4,7 @@
 
 **Datum:** [09/16-26] **Spår:** [Pre Security]
 
-**Vad rummet handlade om (1-2 meningar i egna ord):**
+**Vad rummet handlade om:**
 Hur man navigerar i Linux terminal och filsystem, läser dokument och andra filer
 
 **Nya begrepp – i egna ord:**
