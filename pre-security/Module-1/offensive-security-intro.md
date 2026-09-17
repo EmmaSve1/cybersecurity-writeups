@@ -31,10 +31,4 @@ Offensive är att hitta sårbarheter innan de uttnytjas och defensive är att sk
 Kod för att söka efter dolda sidor, att man kan hitta dolda sidor som körs på en URL med hjälp av 
 dirb.
 
-## **Frågor jag svarade fel på i quiz + rätt svar:**
-Inga fel denna gång
-
----
-
-## Termer jag inte helt förstår än
 
